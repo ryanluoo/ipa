@@ -1,4 +1,4 @@
-module ipa
+module github.com/ryanluoo/ipa
 
 go 1.12
 
